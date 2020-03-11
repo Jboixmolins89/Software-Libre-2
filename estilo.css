@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background-color: lightgrey;
+    font-size: 2rem;
+  }
+  
+  header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: slateblue;
+    color: white;
+  }
+  
+  main {
+    display: block;
+    margin: 8rem 10% 0;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 4rem;
+  }
+  
+  h2 {
+    margin: 0;
+    background-color: slateblue;
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+  }
+  
+  article {
+    width: 70%;
+    border-radius: 10px;
+    margin: 40px 10%;
+    padding-bottom: 20px;
+    background-color: white;
+  }
+  
+  h3 {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin: 0;
+    padding-left: 20px;
+    background-color: green;
+    color: white;
+    font-size: 3rem;
+  }
